@@ -206,6 +206,7 @@ img{
 }
 .home__img{
     position: absolute;
+    margin-right: -200px;
     right: 0;
     bottom: 0;
     width: 295px;
